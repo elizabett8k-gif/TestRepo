@@ -1,3 +1,2 @@
-
 def print_smt(text: str):
-    print(text)
+    print('<3')
