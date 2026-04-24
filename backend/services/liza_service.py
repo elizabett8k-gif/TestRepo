@@ -1,2 +1,2 @@
-def print_smt(text: str):
+def print_smt():
     print('<3')
